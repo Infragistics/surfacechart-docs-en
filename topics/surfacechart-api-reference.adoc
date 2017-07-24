@@ -28,7 +28,7 @@ The following table lists the most notable namespaces related to the  _xamScatte
 |====
 |Namespace|Description
 
-| link:{ApiPlatform}{SurfaceChartAssembly}.v{ProductVersion}{SurfaceChartNamespace}_namespace.html[Infragistics.Controls.Charts]
+| link:{ApiPlatform}{SurfaceChartAssembly}.{ApiVersion}{SurfaceChartNamespace}_namespace.html[Infragistics.Controls.Charts]
 |The _xamScatterSurface3D_ namespace.
 
 |====
